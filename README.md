@@ -23,7 +23,7 @@ This is a Point of Sale (POS) system designed for small businesses and retail st
 
 ## Technologies Used
 - JavaScript
-- Next.js(React)
+- Node.js
 - Express.js
 - Tailwind CSS
 - Supabase(Auth)
