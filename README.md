@@ -23,9 +23,11 @@ This is a Point of Sale (POS) system designed for small businesses and retail st
 
 ## Technologies Used
 - JavaScript
-- Node.js
+- Next.js(React)
 - Express.js
-- MySQL (or your database)
+- Tailwind CSS
+- Supabase(Auth)
+- typescript
 
 ## Contributing
 Feel free to fork the repository and submit pull requests. Report issues via GitHub Issues.
