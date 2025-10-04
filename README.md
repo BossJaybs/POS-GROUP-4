@@ -9,7 +9,7 @@ This is a Point of Sale (POS) system designed for small businesses and retail st
 - Inventory tracking and management
 - User authentication and role management
 - Reporting and analytics (daily sales, inventory status)
-- Support for multiple payment methods
+
 
 ## Installation
 1. Ensure you have [Node.js](https://nodejs.org/) installed.
@@ -34,4 +34,4 @@ Feel free to fork the repository and submit pull requests. Report issues via Git
 This project is licensed under the MIT License.
 
 ## Contact
-For questions or support, contact [your-email@example.com].
+For questions or support, contact marananboss5@gmail.com
